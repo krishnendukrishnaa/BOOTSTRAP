@@ -1,0 +1,105 @@
+#amazone
+{
+    height: 85px;
+    min-width:auto;
+    padding-block:initial;
+}
+.card-img-top
+{
+    height: 250px;
+}
+#button
+{
+    border:0px;
+    color: white;    
+}
+#block
+{
+    height: 200px;
+}
+.col-lg-6
+{
+   
+    width: 50px;
+}
+
+#mop
+{
+    height: 50px;
+    width: 100px;
+}
+#prime
+{
+    border: none;
+}
+#img
+{
+    background-image: url(./IMAGE/diwali.jpeg);
+    position: absolute;
+    width: 90px;
+    left: 0px;
+}
+#form
+{
+    position: absolute;
+    left: 700px;
+    margin-top: 10px;
+}
+#pop
+{
+    font-size: 13px;
+}
+#mode
+{
+    height: 250px;
+    width: 200px;
+}
+#off
+{
+    background-color:  rgb(204, 28, 102); 
+    border: 0cm; 
+}
+#deal
+{
+    font-weight:500; 
+    margin-left: 15px; 
+    text-decoration: none; 
+    color: rgb(204, 28, 102);
+}
+#done
+{
+    text-decoration: none;
+}
+#dove
+{
+  display: inline-block;
+  padding: 8px 16px;
+  text-decoration: none;
+  background-color: #04AA6D;
+  color: white;
+  border-radius: 50%;
+  background-color: #f1f1f1;
+  color: black;
+}
+#norm
+{
+    text-decoration: none;
+}
+.card
+{
+    border-radius: 9px;
+}
+.nav-link
+{
+    color: black;
+}
+.nav-link:hover
+{
+    background-color: rgb(197, 212, 211);
+    border-radius: 4px;
+}
+.nav-item-1:hover
+{
+    border-style: solid;
+    
+}

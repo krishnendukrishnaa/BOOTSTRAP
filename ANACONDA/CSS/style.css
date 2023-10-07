@@ -1,0 +1,37 @@
+#but
+{
+    margin-right: 25px;
+    color: white;
+    font-weight: bold;
+}
+#low
+{
+  margin-left: 200px;  
+}
+#btn
+{
+  color: white;
+  margin-left: 400px;
+  text-decoration: none;
+  font-weight: bold;
+}
+#ton
+{
+  color: white;
+  position: absolute;
+  right: 50px;
+  text-decoration: none;
+  font-weight: bold;
+  border-style: solid;
+  border-radius: 5px;
+  border-width:thin;
+  margin: 4 6px;
+  width: 122px;
+  height: 32px;
+  text-align:center;
+}
+.card-link
+{
+  text-decoration: none;
+}
+
